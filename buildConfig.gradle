@@ -17,14 +17,6 @@ ext {
     ]
 
     dependConfig = [
-            okgo                 : "com.lzy.net:okgo:3.0.4",
-            gson                 : "com.google.code.gson:gson:2.8.6",
-            glide                : "com.github.bumptech.glide:glide:4.11.0",
-            autosize             : "me.jessyan:autosize:1.2.1",
-            lottie               : "com.airbnb.android:lottie:3.5.0",
-            eventbus             : "org.greenrobot:eventbus:3.2.0",
-            webSocket            : "org.java-websocket:Java-WebSocket:1.5.1",
-            tinypinyin           : "com.github.promeg:tinypinyin:2.0.3",
-            multimedia           : "com.github.myselyhero:multimedia:1.0.6"
+
     ]
 }
